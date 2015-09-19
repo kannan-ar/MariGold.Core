@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MariGold.Core", "MariGold.Core\MariGold.Core.csproj", "{66C80EEB-5DCA-4870-9A40-69A545E823C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MariGold.Core.Tests", "MariGold.Core.Tests\MariGold.Core.Tests.csproj", "{0E34A429-733D-4371-9653-B39FA1C1EC47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66C80EEB-5DCA-4870-9A40-69A545E823C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66C80EEB-5DCA-4870-9A40-69A545E823C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66C80EEB-5DCA-4870-9A40-69A545E823C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66C80EEB-5DCA-4870-9A40-69A545E823C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E34A429-733D-4371-9653-B39FA1C1EC47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E34A429-733D-4371-9653-B39FA1C1EC47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E34A429-733D-4371-9653-B39FA1C1EC47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E34A429-733D-4371-9653-B39FA1C1EC47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
